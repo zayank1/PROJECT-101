@@ -1,0 +1,3 @@
+The user should be able to switch screens from followers to posts or my posts
+they should also be able to like the different posts that are there
+they should also be able to upload their own posts
